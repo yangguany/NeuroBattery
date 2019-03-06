@@ -1,6 +1,11 @@
 NeuroBattery
 ============
 
+Modified:   2019.3.6
+----------------
+1. 本文的官方网站： http://jeffduda.github.io/NeuroBattery/
+2. 主要用ANTs进行组织分割，可分6类(CSF,white matter, cortex, deep gray matter, brainstem, and cerebellum).
+
 Here we provide a working example that illustrates the use of Advanced Normalization Tools ([ANTs](https://github.com/stnava/ANTs)) to process multiple MR image types for a single subject. We provide and example input data for a single subject for which a battery of 4 different images were acquired in a single scanning session:
 
 1. T1 (MPRAGE)
